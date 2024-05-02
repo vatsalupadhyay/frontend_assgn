@@ -10,6 +10,10 @@ Firstly Install the Node Modules
 
 ### `npm install`
 
+Locate the Correct Directory 
+
+### `cd ...`
+
 ### `npm start`
 
 Runs the app in the development mode.\
