@@ -1,0 +1,32 @@
+.book-details-container {
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .page-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .book-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .book-info {
+    flex: 1;
+  }
+  
+  .book-info p {
+    margin: 5px 0;
+  }
+  
+  .book-cover img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+  }
+  
